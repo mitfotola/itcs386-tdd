@@ -6,7 +6,7 @@
 # [x] 1 oz is not the same as 1 g
 # [x] 200 g + 300 g = 500 g
 # [x] 200 g + 1 oz, reduced to grams, using a conversion rate
-# [ ] (200 g + 1 oz) x 2
+# [x] (200 g + 1 oz) x 2
 # [ ] __hash__: __eq__ without __hash__ makes Quantity unhashable
 #     (no sets or dict keys). Nothing needs it yet.
 
